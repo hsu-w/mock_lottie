@@ -7,7 +7,7 @@ const menuAnimation = lottie.loadAnimation({
   renderer: "svg",
   loop: false,
   autoplay: false,
-  path: "data.json", // the path to the animation json file
+  path: "data_new.json", // the path to the animation json file
 });
 menuAnimation.setSpeed(2);
 
